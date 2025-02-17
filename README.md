@@ -1,3 +1,5 @@
+# Automated DevSecOps CI/CD Pipeline with Kubernetes for Netflix Clone
+
 # Project Architecture 
 
 ![Imgur](https://imgur.com/ZyN0Yml.png)
